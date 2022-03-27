@@ -1,0 +1,34 @@
+body {
+    padding-right: 50px;
+    background-image: url(3.png);
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  #content {
+    border: 4px solid rgb(235, 117, 62);
+    border-radius: 10px 10px;
+    background-color: #f3da88c7;
+    width: 600px;
+    height: 300px;
+    margin-left: 400px;
+    padding-top: 10px;
+    margin-top: 30px;
+    padding-left: 20px;
+  }
+  
+  #content h2 {
+    text-align: center;
+  }
+  
+  #footer {
+    clear: both;
+    text-align: center;
+    background-color: rgb(252, 252, 252);
+    padding: 0px;
+    margin-top: 300px;
+    margin-left: 50px;
+    color: #290909;
+  }
